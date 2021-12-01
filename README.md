@@ -1,5 +1,16 @@
 # AKGNN
-The source code for Adaptive Kernel Graph Neural Network at AAAI2022
+The source code for Adaptive Kernel Graph Neural Network at AAAI2022.
+
+Please cite our paper if you think our work is helpful to you:
+
+```
+@inproceedings{ju2022akgnn,
+  title={Adaptive Kernel Graph Neural Network},
+  author={Ju, Mingxuan and Hou, Shifu and Fan, Yujie and Zhao, Jianan and Ye, Yanfang and Zhao, Liang},
+  booktitle={36th AAAI Conference on Artificial Intelligence (AAAI)},
+  year={2022}
+}
+```
 
 ## Requirements
 * Python 3.8.3
