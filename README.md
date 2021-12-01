@@ -21,3 +21,7 @@ Our model achieves the following accuracies on Cora, CiteSeer and Pubmed with th
 | Model name   |   Cora    |  CiteSeer |  Pubmed   |
 | ------------ | --------- | --------- | --------- |
 | AKGNN        |   84.8%   |    73.5%  |   80.4%   |
+
+## Running Environment 
+
+The experimental results reported in paper are conducted on a single NVIDIA GeForce RTX 2080 Ti with CUDA 11.1, which might be slightly inconsistent with the results induced by other platforms.
