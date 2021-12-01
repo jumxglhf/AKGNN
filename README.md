@@ -15,7 +15,7 @@ Please cite our paper if you think our work is helpful to you:
 ## Requirements
 * Python 3.8.3
 * Please install other pakeages by 
-``` pip install -r requirements.txt```
+``` pip install -r requirement.txt```
 
 ## Usage Example
 * Running on Cora:
