@@ -1,5 +1,5 @@
 # AKGNN
-The source code for Adaptive Kernel Graph Neural Network at AAAI2022.
+The source code for Adaptive Kernel Graph Neural Network at AAAI2022 (url: https://arxiv.org/abs/2112.04575).
 
 Please cite our paper if you think our work is helpful to you:
 
